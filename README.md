@@ -103,13 +103,13 @@ If this project helps you:
 > Learning grows faster when shared.
 
 ---
-
-##  Connect
-
+<h2>About the Author</h2>
 <p align="center">
-  🔗 <a href="https://github.com/your-github-username">GitHub</a> •
-  💼 <a href="https://www.linkedin.com/">LinkedIn</a>
+
+AI Engineer & Researcher passionate about teaching deep learning from first principles and helping students move from “user” to “builder” of AI systems
 </p>
+
+
 
 ---
 
